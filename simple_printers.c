@@ -50,7 +50,7 @@ int print_rev(va_list ap, params_t *params)
  * @ap: string
  * @params: the parameters struct
  *
- * Return: number bytes printed
+ * Return: numbers bytes printed
  */
 int print_rot13(va_list ap, params_t *params)
 {
