@@ -116,7 +116,7 @@ int get_modifier(char *s, params_t *params)
  * @params: the parameters struct
  * @ap: the argument pointer
  *
- * Return: new pointer
+ * Return:  pointer
  */
 char *get_width(char *s, params_t *params, va_list ap)
 /* should this function use char **s and modify the pointer? */
